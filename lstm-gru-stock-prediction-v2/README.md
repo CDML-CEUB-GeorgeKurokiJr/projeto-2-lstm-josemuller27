@@ -1,21 +1,21 @@
-# 📈 LSTM & GRU Stock Price Prediction
+# LSTM & GRU Stock Price Prediction
 
 Projeto de previsão de preços de ações utilizando redes neurais recorrentes (LSTM e GRU) com dados do Yahoo Finance.
 
-## 🚀 Objetivo
+##  Objetivo
 
 Comparar o desempenho de modelos LSTM e GRU na previsão de séries temporais financeiras.
 
-## 🧠 Modelos utilizados
+##  Modelos utilizados
 
 - LSTM
 - GRU
 
-## 📊 Dataset
+##  Dataset
 
 Dados históricos via Yahoo Finance (yfinance).
 
-## ⚙️ Pipeline
+##  Pipeline
 
 1. Coleta de dados
 2. Normalização
@@ -23,7 +23,7 @@ Dados históricos via Yahoo Finance (yfinance).
 4. Treinamento
 5. Avaliação
 
-## ▶️ Execução
+##  Execução
 
 ```bash
 pip install -r requirements.txt
